@@ -6,5 +6,13 @@ By Anthony Vilarim Caliani
 This is my game docs repository. Here you will find some stuffs that I've discovered while I was playing some games.
 
 ### Games
+- **[CS: GO](csgo/README.md)**<br>
 
-🔫 **[CS: GO](cs-go/README.md)**<br>
+
+### FPS Sensitivity
+| Game                 | Value            |
+|----------------------|:----------------:|
+| CS:GO                | `1.50`           |
+| Valorant             | `???`            |
+| Fortnite             | `???`            |
+| Cod Black Ops        | `???`            |
