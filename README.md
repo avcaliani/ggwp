@@ -13,6 +13,6 @@ This is my game docs repository. Here you will find some stuffs that I've discov
 | Game                 | Value            |
 |----------------------|:----------------:|
 | CS:GO                | `1.50`           |
-| Valorant             | `???`            |
+| Valorant             | `0.47`           |
 | Fortnite             | `???`            |
 | Cod Black Ops        | `???`            |
