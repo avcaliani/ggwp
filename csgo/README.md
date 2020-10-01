@@ -18,7 +18,7 @@ To activate developer's console you need to go to **game options** and update _"
 | Reverse Mouse        | `OFF`            |
 | Duck Mode            | `HOLD`           |
 | Walk Mode            | `TOGGLE`         |
-| Mouse Sensitivity `*`| `2.20`           |
+| Mouse Sensitivity `*`| `1.50`           |
 | Zoom Sensitivity     | `1.00`           |
 | Raw Input            | `ON`             |
 | Mouse Acceleration   | `OFF`            |
