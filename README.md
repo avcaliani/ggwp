@@ -16,3 +16,5 @@ This is my game docs repository. Here you will find some stuffs that I've discov
 | Valorant             | `0.47`           |
 | Fortnite             | `5.90`           |
 | Call of Duty         | `5.00`           |
+
+> [Mouse Sensitivity Calculator](https://aiming.pro/mouse-sensitivity-calculator/call-of-duty)
