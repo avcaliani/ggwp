@@ -14,5 +14,5 @@ This is my game docs repository. Here you will find some stuffs that I've discov
 |----------------------|:----------------:|
 | CS:GO                | `1.50`           |
 | Valorant             | `0.47`           |
-| Fortnite             | `???`            |
-| Cod Black Ops        | `???`            |
+| Fortnite             | `5.90`           |
+| Call of Duty         | `5.00`           |
