@@ -5,7 +5,6 @@ By Anthony Vilarim Caliani
 
 This is my game docs repository. Here you will find some stuffs that I've discovered while I was playing some games.
 
-### Games
 - **[CS: GO](csgo/README.md)**<br>
 
 
