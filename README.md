@@ -9,6 +9,9 @@ This is my game docs repository. Here you will find some stuffs that I've discov
 
 
 ### FPS Sensitivity
+> Mouse DPI: `800`  
+> Windows Mouse speed "Defaut" and option "Enhance pointer precision" is `DISABLED`
+
 | Game                 | Value            |
 |----------------------|:----------------:|
 | CS:GO                | `1.50`           |
@@ -16,4 +19,4 @@ This is my game docs repository. Here you will find some stuffs that I've discov
 | Fortnite             | `5.90`           |
 | Call of Duty         | `5.00`           |
 
-> [Mouse Sensitivity Calculator](https://aiming.pro/mouse-sensitivity-calculator/call-of-duty)
+> 💡 [Mouse Sensitivity Calculator](https://aiming.pro/mouse-sensitivity-calculator/call-of-duty)
