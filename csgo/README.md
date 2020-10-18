@@ -61,6 +61,9 @@ viewmodel_recoil 0
 cl_righthand 1
 ```
 
+### Bots
+Play with Bots using 128 tick server. At CS:GO start params set `-tickrate 128` 
+
 ## 🌎 Related Links
 - [CS:GO on Steam](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 - [CS:GO Crosshair Generator](https://tools.dathost.net/)
