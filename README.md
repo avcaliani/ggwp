@@ -14,10 +14,10 @@ This is my game docs repository. Here you will find some stuffs that I've discov
 
 | Game                 | Value            |
 |----------------------|:----------------:|
-| CS:GO                | `1.50`           |
-| Valorant             | `0.47`           |
-| Fortnite             | `5.90`           |
-| Call of Duty         | `5.00`           |
+| CS:GO                | `0.86`           |
+| Valorant             | `0.27`           |
+| Fortnite             | `3.40`           |
+| Call of Duty         | `2.85`           |
 
-> 💡 [Mouse Sensitivity Calculator](https://aiming.pro/mouse-sensitivity-calculator/call-of-duty)
+> 💡 [Mouse Sensitivity Calculator](https://aiming.pro/mouse-sensitivity-calculator/call-of-duty)  
 > [CoD Cold War](https://www.sportskeeda.com/esports/best-settings-increase-fps-black-ops-cold-war)
