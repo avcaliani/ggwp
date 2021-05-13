@@ -8,26 +8,16 @@ _Windows Mouse speed "Defaut" and option "Enhance pointer precision" is `DISABLE
 
 | Game                 | Value            |
 |----------------------|:----------------:|
-| CS:GO                | `1.14`           |
-| Valorant             | `0.36`           |
-| Fortnite             | `4.50`           |
-| Call of Duty         | `3.81`           |
+| CS:GO                | `1.50`           |
+| Valorant             | `0.47`           |
+| Fortnite             | `5.90`           |
+| Call of Duty         | `5.00`           |
 
 
 > 💡 [Mouse Sensitivity Calculator](https://aiming.pro/mouse-sensitivity-calculator/call-of-duty)  
 
 
 ## CS:GO
-
-#### Start Params
-```
--tickrate 128
-```
-
-#### Crosshair Code
-```
-CSGO-jpTLH-3wWHG-9faox-jRYqf-JdxTC
-```
 
 #### autoexec.cfg
 ```cfg
